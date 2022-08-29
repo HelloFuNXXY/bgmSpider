@@ -1,6 +1,6 @@
 # bgmSpider
 
-根据 https://github.com/windrises/bgmtools 自行改动的用于论文的小爬虫
+根据 https://github.com/windrises/bgmtools 自行改动的用于爬取bangumi.tv | bgm.tv 上数据用于写论文的小爬虫
 
 ·for subject
 
